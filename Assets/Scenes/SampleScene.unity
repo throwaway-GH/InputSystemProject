@@ -900,7 +900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa84415807c344135bcc0067b63ce531, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SignatureSpace: {fileID: 1333803826}
+  drawingSpaceRawImage: {fileID: 1333803826}
   inkSize: 10
   cornersText: {fileID: 59284872}
   positionText: {fileID: 689643113}
